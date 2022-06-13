@@ -1,7 +1,8 @@
-#ifndef HOLBERTON_FUNTIONS
-#define HOLBERTON_FUNTIONS
+#ifndef MAIN_FUNTIONS
+#define MAIN_FUNTIONS
 
 int _putchar(char c);
 void reset_to_98(int *n);
+void swap_int(int *a, int *b);
 
 #endif
